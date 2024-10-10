@@ -1,0 +1,17 @@
+{
+  "name": "encryptionpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "encryption",
+    "decryption",
+    "crypto",
+    "security"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhwani Upadhyay",
+  "license": "ISC"
+}
